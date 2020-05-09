@@ -1,0 +1,22 @@
+.footer i {
+display: inline-block;
+font-size: 46px;
+color : #1A582B;
+text-decoration: none;
+}
+
+.links {
+  text-align: center;
+  padding: 50px;
+}
+
+.footer {
+  border-top: 1px solid lightgrey;
+  height: 100px;
+  margin-top: 50px;
+}
+
+.footer p {
+  color : #1A582B;
+}
+

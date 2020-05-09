@@ -1,0 +1,11 @@
+.main-marketplace {
+  height: 100vh;
+  width: 60%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+
+.product-cards {
+
+}
